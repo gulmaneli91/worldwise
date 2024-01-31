@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930380
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Modena",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-10-24T17:12:55.907Z",
+      "notes": "",
+      "position": {
+        "lat": "44.62175409623327",
+        "lng": "10.914916992187502"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Pianoro",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-10-24T17:15:35.319Z",
+      "notes": "",
+      "position": {
+        "lat": "44.39257961837961",
+        "lng": "11.340637207031252"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Como",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-10-24T17:27:01.886Z",
+      "notes": "",
+      "position": {
+        "lat": "45.80870039713958",
+        "lng": "9.080200195312502"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "les Escaldes",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2023-10-24T17:34:49.678Z",
+      "notes": "",
+      "position": {
+        "lat": "42.500453028125584",
+        "lng": "1.531219482421875"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Birmingham",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-10-25T02:18:15.768Z",
+      "notes": "",
+      "position": {
+        "lat": "52.47274306920925",
+        "lng": "-1.8951416015625002"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Ottawa",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2023-10-25T02:20:21.511Z",
+      "notes": "",
+      "position": {
+        "lat": "45.1510532655634",
+        "lng": "-75.93750000000001"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "New Orleans",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-10-25T02:22:15.751Z",
+      "notes": "",
+      "position": {
+        "lat": "29.954934549656144",
+        "lng": "-90.087890625"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-01-31T14:22:16.166Z",
+      "notes": "",
+      "position": {
+        "lat": "35.62423216064797",
+        "lng": "139.85308689897167"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-01-31T14:22:56.922Z",
+      "notes": "visit big bang",
+      "position": {
+        "lat": "51.59079411135634",
+        "lng": "-0.06700213016324509"
+      },
+      "id": 98443214
+    }
+  ]
+}
